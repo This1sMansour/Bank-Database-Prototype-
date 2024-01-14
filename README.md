@@ -1,1 +1,1 @@
-# Bank-Database-Prototype-
+# Bank Database Prototype
